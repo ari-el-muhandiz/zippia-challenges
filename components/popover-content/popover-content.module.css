@@ -1,0 +1,17 @@
+.buttonOptions {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.buttonOptions button {
+    margin-right: 5px;
+}
+.buttonGrid {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+.buttonGrid button {
+    margin-left: 5px;
+}
